@@ -1,0 +1,8 @@
+>> Instruction
+
+1. Download source code from this git
+2. Open project in Pycharm with Python environment
+3. Install requirements in requirements.txt
+4. Add your video file to "data" folder. Size suggestion: less than 100Mb, duration less than 30 seconds.
+5. Replace your video name in line "video_path=os.path.join('.','data','your_file_name_here')" in car_counter.py
+6. Run car_counter.py
